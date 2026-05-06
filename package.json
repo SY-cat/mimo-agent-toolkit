@@ -1,0 +1,14 @@
+{
+  "name": "mimo-agent-toolkit",
+  "version": "1.0.0",
+  "description": "AI-driven developer toolkit built on multi-agent collaboration architecture, powered by Xiaomi MiMo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["mimo", "agent", "ai-toolkit", "developer-tools", "multi-agent"],
+  "author": "SY-cat",
+  "license": "MIT",
+  "dependencies": {}
+}
